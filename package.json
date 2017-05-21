@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/theflorencefu/memories/issues"
   },
-  "homepage": "https://github.com/theflorencefu/memories#readme"
+  "homepage": "https://github.com/theflorencefu/memories#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "multer": "^1.3.0",
+    "xml2js": "^0.4.17"
+  }
 }
