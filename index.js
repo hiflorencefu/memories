@@ -25,4 +25,7 @@ app.post('/memory', upload.array(), function(req, res) {
     res.send("got a post request")
 })
 
-app.listen(3000)
+var PORT = process.env.PORT || 3000;
+app.listen(PORT, function() {
+    console.log("Listenting on port " + PORT);
+})
