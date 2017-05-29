@@ -3,8 +3,16 @@ class MemoryStore {
         this.memories = []
     }
 
-    get() {
+    set(memories) {
+        this.memories = memories
+    }
+
+    latest() {
         // return the 10 latest memories
+        return this.memories
+    }
+
+    get() {
         return this.memories
     }
 
