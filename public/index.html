@@ -3,23 +3,34 @@
     <head>
         <meta charset="utf-8">
         <title></title>
+        <link rel="stylesheet" href="/styles.css">
         <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
     </head>
     <body>
-        <h1></h1>
-        <form>
-            <input type="text" name="feeling" value="" placeholder="feeling">
-            <input type="text" name="time" value="" placeholder="time">
-            <input type="text" name="place" value="" placeholder="place">
-            <input type="text" name="event" value="" placeholder="event">
-            <input type="text" name="company" value="" placeholder="company">
-            <input type="text" name="sight" value="" placeholder="sight">
-            <input type="text" name="sound" value="" placeholder="sound">
-            <input type="text" name="smell" value="" placeholder="smell">
-            <input type="text" name="touch" value="" placeholder="touch">
-            <input type="text" name="taste" value="" placeholder="taste">
-            <input type="submit" name="submit" value="Submit">
-        </form>
+        <h1>out of memory</h1>
+        <div class="form-window window">
+            <div class="bar">
+                <span class="close"><img src="/assets/close.svg" alt=""></span>
+            </div>
+            <form class="window-content">
+                <input type="text" name="title" value="" placeholder="title">
+                <input type="text" name="feeling" value="" placeholder="feeling">
+                <input type="text" name="time" value="" placeholder="time">
+                <input type="text" name="place" value="" placeholder="place">
+                <input type="text" name="event" value="" placeholder="event">
+                <input type="text" name="company" value="" placeholder="company">
+                <input type="text" name="sight" value="" placeholder="sight">
+                <input type="text" name="sound" value="" placeholder="sound">
+                <input type="text" name="smell" value="" placeholder="smell">
+                <input type="text" name="touch" value="" placeholder="touch">
+                <input type="text" name="taste" value="" placeholder="taste">
+                <input type="submit" name="submit" value="Submit">
+            </form>
+        </div>
+        <ul class="memories">
+
+        </ul>
         <script type="text/javascript" src="scripts/main.js"></script>
     </body>
 </html>

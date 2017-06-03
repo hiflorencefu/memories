@@ -9,7 +9,7 @@ class MemoryStore {
 
     latest() {
         // return the 10 latest memories
-        return this.memories
+        return this.memories.slice(0, 10)
     }
 
     get() {

@@ -48,6 +48,11 @@ function serve() {
         res.send('/index.html')
     })
 
+    app.get('/memories', function(req, res) {
+        var memories = ms.latest();
+        res.send(memories);
+    })
+
     app.post('/memory', upload.array(), function(req, res) {
         ms.add({memory: req.body})
         var xml = builder.buildObject({
@@ -57,7 +62,7 @@ function serve() {
             if (err) {
                 console.log('error: ', err);
             } else {
-                console.log('successfully wrote to disk');
+                console.log('Saved new memory to file');
             }
         })
     })

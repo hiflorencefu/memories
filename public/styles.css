@@ -1,0 +1,34 @@
+.window {
+    width: 300px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.window-content {
+    padding: 16px;
+}
+
+.window form input[type="text"] {
+    width: 100%;
+}
+
+.bar {
+    height: 28px;
+    border-bottom: 1px solid black;
+    margin: 0;
+}
+
+.bar span {
+    float: right;
+    padding-top: 4px;
+    margin-right: 4px;
+}
+
+.bar span img {
+    width: 20px;
+    height: 20px;
+}
+
+.form-window {
+    position: absolute;
+}
