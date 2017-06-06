@@ -6,11 +6,11 @@ module.exports = function corrupt(str) {
 
     for (var i = 0; i < str.length; i++) {
         if (Math.random() < chance) {
-            var rand = String.fromCharCode(Math.floor(Math.random() * 256))
+            var rand = String.fromCharCode(Math.floor(Math.random() * (256 - 33)) + 33)
             str = str.slice(0, i) + rand + str.slice(i+1)
             break
         }
     }
-    
+
     return str;
 }

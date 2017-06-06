@@ -50,8 +50,18 @@ function serve() {
 
     app.get('/memories', function(req, res) {
         var memories = ms.latest();
-        console.log(memories);
         res.send(memories);
+
+        var xml = builder.buildObject({
+            memories: ms.get()
+        })
+        fs.writeFile(__dirname + '/memories.xml', xml, (err) => {
+            if (err) {
+                console.log('error: ', err);
+            } else {
+                console.log('Saved memories to file');
+            }
+        })
     })
 
     app.post('/memory', upload.array(), function(req, res) {
