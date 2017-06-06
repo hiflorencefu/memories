@@ -65,10 +65,11 @@ function serve() {
                 console.log('Saved new memory to file');
             }
         })
+        res.send({status: "OK"});
     })
 
     var PORT = process.env.PORT || 3000;
     app.listen(PORT, function() {
-        console.log("Listenting on port " + PORT);
+        console.log("Listening on port " + PORT);
     })
 }

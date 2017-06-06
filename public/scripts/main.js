@@ -34,8 +34,8 @@ $('input[name="submit"]').click(function(e) {
         type: 'POST',
         url: '/memory',
         data: memory,
-        success: function() {
-            console.log("success!")
+        success: function(data) {
+            $(e.target).closest('.window').addClass('submitted')
         }
     })
 })

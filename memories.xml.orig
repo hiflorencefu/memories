@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<memories>
+    <memory>
+        <title>Golden hour</title>
+        <feeling>a strange mix of wistfulness knowing that things are going to rapidly change soon yet being tremendously content in the present moment</feeling>
+        <time>golden hour, a late afternoon at the end of september</time>
+        <place>the grass in front of a harvard university library</place>
+        <event>visiting boston because i'm still deluding myself into thinking my senior year of high school boyfriend wants to stay together</event>
+        <company>julia</company>
+        <sense>
+            <sight>everything is golden and wavering back and forth in the sun, julia is sprawled out on the grass beside me</sight>
+            <sound>we're talking over the quiet hum about how it feels like we're in a movie</sound>
+            <smell>grass, probably</smell>
+            <touch>more grass, a little itchy because grass is never soft in real life</touch>
+            <taste>nothing memorable - maybe the remnants of an apple pastry we had at that red-doored cafe in cambridge earlier</taste>
+        </sense>
+    </memory>
+    <memory>
+        <title>nando’s</title>
+        <feeling>dazed</feeling>
+        <time>afternoon, a weekend in may 2016</time>
+        <place>Nando’s chicken</place>
+        <event>museum hopping in chicago post-edibles</event>
+        <company>Sam and Macs, aka friends toast</company>
+        <sense>
+            <sight>bright lights in restaurant, washes of reds and oranges, but that might just be the barbecue and hot sauces I remember</sight>
+            <sound>overlapping conversations in one space</sound>
+            <smell>fried chicken, grease</smell>
+            <touch>crisp flour</touch>
+            <taste>Salt</taste>
+        </sense>
+    </memory>
+    <memory>
+        <title>Dvorák’s dilemma</title>
+        <feeling>calm, serene, and at ease</feeling>
+        <time>a cold december evening</time>
+        <place>in the beating heart of the city</place>
+        <event>space exploration</event>
+        <company>my friend, panicking, our guide, lost</company>
+        <sense>
+            <sight>two beds, a piano, and messy desks</sight>
+            <sound>piercing alarm and pounding doors</sound>
+            <smell>moldy smells of unwashed dishes</smell>
+            <touch>hard-wood floors and desks</touch>
+            <taste>a dry mouth</taste>
+        </sense>
+    </memory>
+    <memory>
+        <title>wine</title>
+        <feeling>lost and confused</feeling>
+        <time>3am</time>
+        <place>queen sized bed</place>
+        <event>sharing our dreams and aspirations</event>
+        <company>me, her, a bottle of wine</company>
+        <sense>
+            <sight>a tantalizing future</sight>
+            <sound>hip hop remixes on soundcloud</sound>
+            <smell>scented candle of lavender</smell>
+            <touch>soft white sheets</touch>
+            <taste>only the lingering tannin and berries</taste>
+        </sense>
+    </memory>
+    <memory>
+        <title>friendship</title>
+        <feeling>complete, utter, undeniable fulfillment </feeling>
+        <time>just another average school day</time>
+        <place>a restaurant in someplace or another </place>
+        <event>saying goodbye for now</event>
+        <company>the current besties </company>
+        <sense>
+            <sight>sparkling lights</sight>
+            <sound>endless laughter and chatter </sound>
+            <smell>wafts of ramen and pork and rice </smell>
+            <touch>cool wooden chopsticks </touch>
+            <taste>A waltz of spicy and salty and umami</taste>
+        </sense>
+    </memory>
+    <memory>
+        <title>waiting</title>
+        <feeling>anxious, scared, heart beating too hard too fast, but also a little bit excited</feeling>
+        <time>6am (in China)</time>
+        <place>home, lying on my bed</place>
+        <event>waiting for admission decision email from Northwestern</event>
+        <company>just me</company>
+        <sense>
+            <sight>staring at the ceiling</sight>
+            <sound>my heartbeats</sound>
+            <smell>fresh meadow scent (detergent on bedding)</smell>
+            <touch>soft comforter</touch>
+            <taste>sour and salty taste down my throat</taste>
+        </sense>
+    </memory>
+    <memory>
+        <title>stargazing in yosemite</title>
+        <feeling>peace</feeling>
+        <time>night time, early september 2016</time>
+        <place>Yosemite national park</place>
+        <event>camping trip</event>
+        <company>two best friends from high school</company>
+        <sense>
+            <sight>half dome, bright stars, the milky way, jagged mountains, tall evergreens</sight>
+            <sound>a guide talking, crickets, crunching footsteps, some conversation</sound>
+            <smell>fresh, crisp nighttime mountain air, evergreens</smell>
+            <touch>rough rock, cool, mild breeze</touch>
+            <taste>fresh air</taste>
+        </sense>
+    </memory>
+    <memory>
+        <title>Russian Mule</title>
+        <feeling>happy and bubbly</feeling>
+        <time>April 26th mid-day</time>
+        <place>a rooftop over Chicago</place>
+        <event>getting drinks</event>
+        <company>a friend who is leaving for work</company>
+        <sense>
+            <sight>a medium-ish crowd of people on a rooftop that faces millennium park</sight>
+            <sound>conversations that are and aren’t mine</sound>
+            <smell>citrus</smell>
+            <touch>cold, metal</touch>
+            <taste>Russian Mule</taste>
+        </sense>
+    </memory>
+</memories>

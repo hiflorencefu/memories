@@ -32,3 +32,15 @@
 .form-window {
     position: absolute;
 }
+
+.submitted-message {
+    display: none;
+}
+
+.submitted .submitted-message {
+    display: block;
+}
+
+.submitted form {
+    display: none;
+}
