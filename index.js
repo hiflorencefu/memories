@@ -50,6 +50,7 @@ function serve() {
 
     app.get('/memories', function(req, res) {
         var memories = ms.latest();
+        console.log(memories);
         res.send(memories);
     })
 
