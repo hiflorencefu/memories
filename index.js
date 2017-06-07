@@ -33,7 +33,7 @@ function serve() {
 
     app.get('/memories', function(req, res) {
         var memories = ms.latest()
-        res.send(memories)
+        res.send(memories.slice().reverse())
 
         var xml = builder.buildObject({
             memories: ms.get()
