@@ -16,6 +16,7 @@ $('input[name="submit"]').click(function(e) {
     e.preventDefault();
 
     var memory = {
+        title: $('input[name="title"]').val(),
         feeling: $('input[name="feeling"]').val(),
         time: $('input[name="time"]').val(),
         place: $('input[name="place"]').val(),

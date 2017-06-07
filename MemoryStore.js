@@ -11,7 +11,7 @@ class MemoryStore {
 
     latest() {
         // return the 10 latest memories
-        var slice = this.memories.slice(0, 10)
+        var slice = this.memories.slice(this.memories.length-10)
 
         for (var m of slice) {
             m.memory.title = corrupt(m.memory.title)
@@ -26,7 +26,8 @@ class MemoryStore {
             m.memory.sense.touch = corrupt(m.memory.sense.touch)
             m.memory.sense.taste = corrupt(m.memory.sense.taste)
         }
-        return slice
+
+        return slice.reverse()
     }
 
     get() {
