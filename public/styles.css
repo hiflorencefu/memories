@@ -45,3 +45,20 @@
 .submitted form {
     display: none;
 }
+
+
+h1 { 
+  font-family: "Monaco";
+  color: black; 
+  margin-bottom: -1px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 12px;
+  font-family: "Monaco";
+}
+
+ul, li {
+    text-decoration: none;
+}
