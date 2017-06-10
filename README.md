@@ -19,4 +19,4 @@ Submit a memory at [out-of-memory.glitch.me](out-of-memory.glitch.me). Here’s 
 <3
 florence
 
-p.s. special thanks to [josh shi](https://github.com/thehandsomepanther) for helping me bring the site to life
+p.s. special thanks to [josh shi](https://twitter.com/unfollowjoshshi) for helping me bring the site to life

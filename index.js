@@ -48,30 +48,20 @@ function serve() {
     })
 
     app.post('/memory', upload.array(), function(req, res) {
-        ms.add({memory: req.body})
+        ms.add(JSON.parse(JSON.stringify({memory: req.body})))
         var xml = builder.buildObject({
             memories: ms.get()
         })
-        fs.writeFile(__dirname + '/memories.xml', xml, (err) => {
-            if (err) {
-                console.log('error: ', err)
-            } else {
-                console.log('Saved new memory to memories.xml')
-            }
-        })
+        fs.writeFileSync(__dirname + '/memories.xml', xml)
+        console.log('Saved memories to memories.xml')
         res.send({status: "OK"})
 
-        orig.add({memory: req.body})
+        orig.add(JSON.parse(JSON.stringify({memory: req.body})))
         xml = builder.buildObject({
             memories: orig.get()
         })
-        fs.writeFile(__dirname + '/memories.xml.orig', xml, (err) => {
-            if (err) {
-                console.log('error: ', err)
-            } else {
-                console.log('Saved new memory to memories.xml.orig')
-            }
-        })
+        fs.writeFileSync(__dirname + '/memories.xml.orig', xml)
+        console.log('Saved memories to memories.xml.orig')
     })
 
     var PORT = process.env.PORT || 3000

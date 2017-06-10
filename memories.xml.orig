@@ -121,62 +121,32 @@
     </sense>
   </memory>
   <memory>
-    <title>thi </title>
-    <feeling>h</feeling>
-    <time>h</time>
-    <place> </place>
-    <event>h</event>
-    <company>h</company>
-    <sense>
-      <sight>h</sight>
-      <sound>h</sound>
-      <smell>h</smell>
-      <touch> </touch>
-      <taste> </taste>
-    </sense>
-  </memory>
-  <memory>
-    <title>oth  </title>
-    <feeling>   ng</feeling>
-    <time>i</time>
-    <place>j</place>
-    <event>j</event>
-    <company> </company>
-    <sense>
-      <sight>j</sight>
-      <sound>j</sound>
-      <smell>jj</smell>
-      <touch> </touch>
-      <taste>j</taste>
-    </sense>
-  </memory>
-  <memory>
     <title>friends toast</title>
     <feeling/>
     <time>fall 2015?</time>
-    <place>sam’s old apartme t near benn son’s</place>
+    <place>sam’s old apartment near bennison’s</place>
     <event>making new friends</event>
     <company>sam and macs</company>
     <sense>
       <sight/>
-      <sound>leon b idges</sound>
-      <smell>smoke and f ench toa t cooking</smell>
+      <sound>leon bridges</sound>
+      <smell>smoke and french toast cooking</smell>
       <touch/>
-      <taste>weed afte taste and french toast</taste>
+      <taste>weed aftertaste and french toast</taste>
     </sense>
   </memory>
   <memory>
     <title>wanna race</title>
-    <feeling>like a ch ld again</feeling>
+    <feeling>like a child again</feeling>
     <time>an afternoon last spring</time>
-    <place>maggie daley par </place>
-    <event>racing to get to t e top of the slide</event>
-    <company>the b y i was chasing!!</company>
+    <place>maggie daley park</place>
+    <event>racing to get to the top of the slide</event>
+    <company>the boy i was chasing!!</company>
     <sense>
-      <sight>small children in th  way</sight>
-      <sound>children laughing  nd playing</sound>
+      <sight>small children in thr way</sight>
+      <sound>children laughing and playing</sound>
       <smell>metal</smell>
-      <touch>w oden playground set</touch>
+      <touch>wooden playground set</touch>
       <taste/>
     </sense>
   </memory>
@@ -227,10 +197,10 @@
   </memory>
   <memory>
     <title>tokyo: day 1</title>
-    <feeling> alm, at peace, slightly jetlagged but wit  a full heart</feeling>
-    <time>early morning, but n ght tim  in chicago</time>
-    <place>shinjuku gyoen pa k</place>
-    <event>slowly taking in the city, the  ulture, the peop e</event>
+    <feeling>calm, at peace, slightly jetlagged but with a full heart</feeling>
+    <time>early morning, but night time in chicago</time>
+    <place>shinjuku gyoen park</place>
+    <event>slowly taking in the city, the culture, the people</event>
     <company>leslie</company>
     <sense>
       <sight>clear skies, beautiful people</sight>
@@ -241,12 +211,12 @@
     </sense>
   </memory>
   <memory>
-    <title>let’s try new  hings we’ll probably hate anyway</title>
+    <title>let’s try new things we’ll probably hate anyway</title>
     <feeling>a little tired, but excited</feeling>
     <time>june 1st</time>
     <place>some here in chinatown</place>
     <event>college formal</event>
-    <company>best f iend &amp; boyfriend</company>
+    <company>best friend &amp; boyfriend</company>
     <sense>
       <sight>blinding fluorescent lights</sight>
       <sound>top 40's</sound>
@@ -258,12 +228,12 @@
   <memory>
     <title>three months later</title>
     <feeling>excited, anxious, nervous, eager. heart beating real fast</feeling>
-    <time>maybe arou d 11 a m.</time>
+    <time>maybe around 11 a m.</time>
     <place>getting out on the BART to 16th and Mission</place>
     <event>reuniting</event>
     <company>us</company>
     <sense>
-      <sight>him i  the distance, with his signature olive pat gonia jacket</sight>
+      <sight>him in the distance, with his signature olive patagonia jacket</sight>
       <sound>rumbling of the t ains</sound>
       <smell>pee—it's SF</smell>
       <touch/>
@@ -286,16 +256,16 @@
     </sense>
   </memory>
   <memory>
-    <title> hree months later ( eprise)</title>
+    <title>three months later (reprise)</title>
     <feeling>uncertainty, doubt</feeling>
-    <time>around 9pm, mi -march</time>
+    <time>around 9pm, mid-march</time>
     <place>o’hare</place>
-    <event>coming back f o  SF</event>
+    <event>coming back from SF</event>
     <company/>
     <sense>
-      <sight>car ligh s</sight>
-      <sound>cars pa sing by</sound>
-      <smell>car  cent</smell>
+      <sight>car lights</sight>
+      <sound>cars passing by</sound>
+      <smell>car scent</smell>
       <touch>dry winter hands</touch>
       <taste/>
     </sense>
@@ -417,7 +387,7 @@
       <sound>stillness of the night</sound>
       <smell>d a n k</smell>
       <touch>cold hand</touch>
-      <taste> arley and co2</taste>
+      <taste>barley and co2</taste>
     </sense>
   </memory>
   <memory>
@@ -478,6 +448,36 @@
       <smell/>
       <touch>greasy gray tables</touch>
       <taste>morsels of food in my mouth</taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>now</title>
+    <feeling>calm, slightly tired</feeling>
+    <time>a moment ago</time>
+    <place>apartment rental</place>
+    <event>eve of departure</event>
+    <company>my partner</company>
+    <sense>
+      <sight>blue screen, yellow wals</sight>
+      <sound>soft sound of breath</sound>
+      <smell>musty, dusty</smell>
+      <touch>a keyboard made unfamiliar</touch>
+      <taste>dry</taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>I think I'm over you</title>
+    <feeling>anxious, vulnerable</feeling>
+    <time>late night after party </time>
+    <place>the happening </place>
+    <event>we kissed </event>
+    <company>our friends who walked by</company>
+    <sense>
+      <sight>entirely too well lit for a street corner</sight>
+      <sound>sirens went by</sound>
+      <smell>I sniffed a shirt of yours once months later to try and smell it again but it wasn't the same</smell>
+      <touch>you tried to hold my hand</touch>
+      <taste>imminent disaster</taste>
     </sense>
   </memory>
 </memories>
