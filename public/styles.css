@@ -1,3 +1,15 @@
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.intro {
+    display: inline-block;
+    width: 50%;
+}
+
 .window {
     width: 300px;
     border: 1px solid black;
@@ -31,12 +43,10 @@
 
 .form-window {
     position: absolute;
-  margin: auto;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  top: 70%;
-  left: 45%;
-  
+    margin: auto;
+    float: right;
+    left: 55%;
+    top: 10%;
 }
 
 .submitted-message {
@@ -52,110 +62,76 @@
 }
 
 h1 {
-  font-family: "Monaco";
-  margin: auto;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  top: 20%;
-  left: 45%;
+    font-family: "Monaco";
+    margin: auto;
+    text-align: center;
 }
 
 a {
-  font-family: "Monaco";
-  font-size: 10px;
-  text-decoration: none;
-  color: blue;
-  margin: auto;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  top: 25%;
-  left: 45%;
+    font-family: "Monaco";
+    font-size: 10px;
+    text-decoration: none;
+    color: blue;
+    margin: auto;
 }
 
 p {
-  font-family: "Monaco";
-  font-size: 10px;
+    font-family: "Monaco";
+    font-size: 10px;
 }
 
 ol {
-
-  font-family: "Monaco";
-  font-size: 12px;
-  margin: auto;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  top: 45%;
-  left: 65%;
+    font-family: "Monaco";
+    font-size: 12px;
+    margin: auto;
 }
 
-.instructions { 
-  width: 20%;
-  margin: auto;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  top: 38%;
-  left: 45%;
-  
+.instructions {
+    margin: auto;
+}
+
+.memories {
+    margin-bottom: 40px;
 }
 
 @media only screen and (max-width: 768px) {
-  
-h1 {
-  font-family: "Monaco";
-  margin: auto;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  top: 10%;
-  left: 50%;
-  width: 80%;
-  text-align: center;
-}
+    .container {
+        max-width: 600px;
+    }
 
-a {
-  font-family: "Monaco";
-  font-size: 10px;
-  text-decoration: none;
-  color: blue;
-  margin: auto;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  top: 15%;
-  left: 50%;
-  text-align: center;
-}
+    .intro {
+        display: block;
+        width: 100%;
+    }
 
-p {
-  font-family: "Monaco";
-  font-size: 10px;
+    a {
+        font-family: "Monaco";
+        font-size: 10px;
+        text-decoration: none;
+        color: blue;
+        margin: auto;
+        text-align: center;
+    }
 
-}
+    p {
+        font-family: "Monaco";
+        font-size: 10px;
+    }
 
-ol {
+    ol {
+        font-family: "Monaco";
+        font-size: 12px;
+        margin: auto;
+    }
 
-  font-family: "Monaco";
-  font-size: 12px;
-  margin: auto;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  top: 58%;
-  left: 50%;
-}
+    .instructions {
+        margin: auto;
+    }
 
-.instructions { 
-  width: 80%;
-  margin: auto;
-  position: absolute;
-  top: 28%;
-  left: 50%;
-  
-}
-  
-  .form-window {
-  position: absolute;
-  margin: auto;
-  transform: translate(-50%, -50%);
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  
+    .form-window {
+        margin: auto;
+        float: none;
+        left: auto;
+        top: auto;
+    }
 }
