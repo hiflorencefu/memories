@@ -450,4 +450,34 @@
       <taste>steamed walnuts</taste>
     </sense>
   </memory>
+  <memory>
+    <title>nessun dorma</title>
+    <feeling>pure ecstacy</feeling>
+    <time>noon</time>
+    <place>among the trolls</place>
+    <event>a hike</event>
+    <company>old friend and new friend</company>
+    <sense>
+      <sight>tongue out</sight>
+      <sound>wind and chatter</sound>
+      <smell>bacon (or one can imagine)</smell>
+      <touch>abrasive rocks</touch>
+      <taste>glaciers</taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>she is crying</title>
+    <feeling>what do i do</feeling>
+    <time>first day of school</time>
+    <place>allison dining hall</place>
+    <event/>
+    <company>you</company>
+    <sense>
+      <sight>huge eyes with tears rolling down</sight>
+      <sound>clatter of dinnerware, distracting</sound>
+      <smell/>
+      <touch>greasy gray tables</touch>
+      <taste>morsels of food in my mouth</taste>
+    </sense>
+  </memory>
 </memories>

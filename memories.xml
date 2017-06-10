@@ -280,7 +280,7 @@
     <sense>
       <sight>my room d mly l t by t e sun pee ing past t e shades</sight>
       <sound>m   wn  o  </sound>
-      <smell> o hing, blocked by  y own gro   sno </smell>
+      <smell> o hin , blocked by  y own gro   sno </smell>
       <touch>my  heets</touch>
       <taste>my t ars,  afte taste o  the f w t i  min s tha  were  n my r om</taste>
     </sense>
@@ -288,7 +288,7 @@
   <memory>
     <title> hree months later (  prise)</title>
     <feeling>uncertainty, d ubt</feeling>
-    <time>around 9pm, mi -march</time>
+    <time>arou d 9pm, mi -march</time>
     <place>o’hare</place>
     <event>coming bac  f o  S </event>
     <company/>
@@ -323,7 +323,7 @@
     <event>Talking and joking loudly by th  lakefill, and to the l brary. Getting drun  like there's no tmrw</event>
     <company>Some of my friends who would do stupi   hit tgt</company>
     <sense>
-      <sight>Twilight. Navy blue sky. </sight>
+      <sight>Twilight. Navy blu  sky. </sight>
       <sound> oud chatters. Laughs. </sound>
       <smell>Fresh aut  n air</smell>
       <touch>Friends jacket</touch>
@@ -342,7 +342,7 @@
       <sound>Lisa rhee's voice </sound>
       <smell>Cold air </smell>
       <touch>Friend's shirt </touch>
-      <taste>VODKA</taste>
+      <taste>V DKA</taste>
     </sense>
   </memory>
   <memory>
@@ -417,7 +417,7 @@
       <sound>st llness of the night</sound>
       <smell>d a n k</smell>
       <touch>cold hand</touch>
-      <taste> arley and co2</taste>
+      <taste> arley  nd co2</taste>
     </sense>
   </memory>
   <memory>
@@ -448,6 +448,36 @@
       <smell>leather seats</smell>
       <touch>mother's hand</touch>
       <taste>steamed walnuts</taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>nessun dorma</title>
+    <feeling>pure ecstacy</feeling>
+    <time>noon</time>
+    <place>among the trolls</place>
+    <event>a hike</event>
+    <company>old friend and new friend</company>
+    <sense>
+      <sight>tongue out</sight>
+      <sound>wind and chatter</sound>
+      <smell>bacon (or one can imagine)</smell>
+      <touch>abrasive rocks</touch>
+      <taste>glaciers</taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>she is crying</title>
+    <feeling>what do i do</feeling>
+    <time>first day of school</time>
+    <place>allison dining hall</place>
+    <event/>
+    <company>you</company>
+    <sense>
+      <sight>huge eyes with tears rolling down</sight>
+      <sound>clatter of dinnerware, distracting</sound>
+      <smell/>
+      <touch>greasy gray tables</touch>
+      <taste>morsels of food in my mouth</taste>
     </sense>
   </memory>
 </memories>
