@@ -32,6 +32,7 @@
 .form-window {
     position: absolute;
     right: 40px;
+
 }
 
 .submitted-message {
@@ -51,13 +52,6 @@ h1 {
   margin-bottom: -1px;
    }
 
-a {
-  font-family: "Monaco";
-  color: black;
-  font-size: 12px;
-  text-decoration: none;
-}
-
 ul, li {
     list-style: none;
     font-family: "Monaco";
@@ -67,4 +61,18 @@ ul, li {
 p {
   font-family: "Monaco";
   font-size: 10px;
+}
+
+a {
+   font-family: "Monaco";
+  font-size: 10px;
+  color: blue;
+  text-decoration: none;
+}
+
+
+
+.instructions {
+  width: 300px;
+  margin-top: 20px;
 }

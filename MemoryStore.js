@@ -11,8 +11,8 @@ class MemoryStore {
 
     latest() {
         // return the 10 latest memories
-        var slice = this.memories.length > 10 ? 
-            this.memories.slice(this.memories.length-10) : 
+        var slice = this.memories.length > 15 ? 
+            this.memories.slice(this.memories.length-15) : 
             this.memories;
 
         for (var m of slice) {

@@ -1,5 +1,5 @@
 module.exports = function corrupt(str) {
-    var chance = .01;
+    var chance = .001;
     var callback = function (error, s) { };
 
     if (str.length != undefined) {
