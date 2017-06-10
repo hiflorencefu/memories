@@ -1,138 +1,288 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <memories>
   <memory>
-    <title>Golden hour</title>
-    <feeling>a strange mix of wistfulness knowing that things are going to rapidly change soon yet being tremendously content in the present moment</feeling>
-    <time>golden hour, a late afternoon at the end of september</time>
-    <place>the grass in front of a harvard university library</place>
-    <event>visiting boston because i'm still deluding myself into thinking my senior year of high school boyfriend wants to stay together</event>
-    <company>julia</company>
+    <title> olden  our</title>
+    <feeling>    r nge mi   f wis  uln s  k o in  t at t ings are goi g to   pid   c ang  s    y t bein  t  mendousl  content in th  pr  ent moment</feeling>
+    <time>gold   h u ,   lat  aft rnoo   t  he end o   e  emb r</time>
+    <place>the  r    in fro t of a h r ard univer ity    r r </place>
+    <event>vis tin  b s      ca se  'm still d lu i   mysel   nto thinking my s  ior yea  o  h    school boyfr en   an s t  stay   ge her</event>
+    <company> ulia</company>
     <sense>
-      <sight>everything is golden and wavering back and forth in the sun, julia is sprawled out on the grass beside me</sight>
-      <sound>we're talking over the quiet hum about how it feels like we're in a movie</sound>
-      <smell>grass, probably</smell>
-      <touch>more grass, a little itchy because grass is never soft in real life</touch>
-      <taste>nothing memorable - maybe the remnants of an apple pastry we had at that red-doored cafe in cambridge earlier</taste>
+      <sight>e erythi   is g l     nd wa   i g back and forth i  t e    ,   l a is sp   l d ou  o  the  rass b si e me</sight>
+      <sound>we' e t l in  ove  th  q iet h m about  ow it    ls li e we'    n a   v e</sound>
+      <smell>grass   r     y</smell>
+      <touch>m  e g ass  a litt e i c      ause gra    s n  er  of     real l fe</touch>
+      <taste>no h ng m  orable   maybe th  r m ants of a  a ple pa  r  we  ad at t  t r d-    e    f  in ca b   ge earlier</taste>
     </sense>
   </memory>
   <memory>
-    <title>nando’s</title>
-    <feeling>dazed</feeling>
-    <time>afternoon, a weekend in may 2016</time>
-    <place>Nando’s chicken</place>
-    <event>museum hopping in chicago post-edibles</event>
-    <company>Sam and Macs, aka friends toast</company>
+    <title>nando’ </title>
+    <feeling>d  e </feeling>
+    <time>a   rnoon    wee end i  may  01 </time>
+    <place>  nd ’s  h  k  </place>
+    <event>mus um  opping i  c icag  po  -e i  es</event>
+    <company> am      a s, a a   ien    oa t</company>
     <sense>
-      <sight>bright lights in restaurant, washes of reds and oranges, but that might just be the barbecue and hot sauces I remember</sight>
-      <sound>overlapping conversations in one space</sound>
-      <smell>fried chicken, grease</smell>
-      <touch>crisp flour</touch>
-      <taste>Salt</taste>
+      <sight>brig t l  hts in res a r   ,  ashes of re s and or   e    u  that might j    b  th  ba b cu  and h    auces I  em mber</sight>
+      <sound>o   lapping conv rsa  on  i   ne sp ce</sound>
+      <smell> r ed ch   e , gr ase</smell>
+      <touch> risp   o r</touch>
+      <taste>Sa  </taste>
     </sense>
   </memory>
   <memory>
-    <title>Dvorák’s dilemma</title>
-    <feeling>calm, serene, and at ease</feeling>
-    <time>a cold december evening</time>
-    <place>in the beating heart of the city</place>
-    <event>space exploration</event>
-    <company>my friend, panicking, our guide, lost</company>
+    <title>Dvor  ’  di e ma</title>
+    <feeling>c lm,  erene  a d a  ea  </feeling>
+    <time>a  ol  d cembe   v nin </time>
+    <place>in  h   eatin    art  f t e c  y</place>
+    <event> pace explor t on</event>
+    <company>my   ie d, p  i k n   our g ide   ost</company>
     <sense>
-      <sight>two beds, a piano, and messy desks</sight>
-      <sound>piercing alarm and pounding doors</sound>
-      <smell>moldy smells of unwashed dishes</smell>
-      <touch>hard-wood floors and desks</touch>
-      <taste>a dry mouth</taste>
+      <sight>two b d , a pia o    d  essy d s s</sight>
+      <sound>pie cin   la   an  p  ndi g doo s</sound>
+      <smell> o  y  mel    f   w she  d     </smell>
+      <touch>h rd-  o  flo rs an  de ks</touch>
+      <taste>a   y  o th</taste>
     </sense>
   </memory>
   <memory>
-    <title>wine</title>
-    <feeling>lost and confused</feeling>
-    <time>3am</time>
-    <place>queen sized bed</place>
-    <event>sharing our dreams and aspirations</event>
-    <company>me, her, a bottle of wine</company>
+    <title>   e</title>
+    <feeling> os   nd confused</feeling>
+    <time>3a </time>
+    <place>queen sized b  </place>
+    <event>sharing o r     ms and as  r tion </event>
+    <company>me, he , a   ttl     w ne</company>
     <sense>
-      <sight>a tantalizing future</sight>
-      <sound>hip hop remixes on soundcloud</sound>
-      <smell>scented candle of lavender</smell>
-      <touch>soft white sheets</touch>
-      <taste>only the lingering tannin and berries</taste>
+      <sight>  tant liz n  f ture</sight>
+      <sound>  p ho   e  x s  n s u dclo d</sound>
+      <smell>sc n ed    dl  o  l ve de </smell>
+      <touch> o t wh t  sheet </touch>
+      <taste>only t e l nge  ng  ann   a     r   s</taste>
     </sense>
   </memory>
   <memory>
-    <title>friendship</title>
-    <feeling>complete, utter, undeniable fulfillment </feeling>
-    <time>just another average school day</time>
-    <place>a restaurant in someplace or another </place>
-    <event>saying goodbye for now</event>
-    <company>the current besties </company>
+    <title>f   nd  ip</title>
+    <feeling>c mp  te     e ,   den ab e fu  i lm nt </feeling>
+    <time>     an t er av  a   schoo  da </time>
+    <place>  r   aur n  in somepl ce or a   h   </place>
+    <event>say ng         f r  ow</event>
+    <company>t     r e t be t es </company>
     <sense>
-      <sight>sparkling lights</sight>
-      <sound>endless laughter and chatter </sound>
-      <smell>wafts of ramen and pork and rice </smell>
-      <touch>cool wooden chopsticks </touch>
-      <taste>A waltz of spicy and salty and umami</taste>
+      <sight>   r  in    ght </sight>
+      <sound> nd e   l u h  r a   cha     </sound>
+      <smell>w fts of ra en a d    k a   rice </smell>
+      <touch>co l   o  n c opstick  </touch>
+      <taste>A walt     spicy a d s lt  an   m  i</taste>
     </sense>
   </memory>
   <memory>
-    <title>waiting</title>
-    <feeling>anxious, scared, heart beating too hard too fast, but also a little bit excited</feeling>
-    <time>6am (in China)</time>
-    <place>home, lying on my bed</place>
-    <event>waiting for admission decision email from Northwestern</event>
-    <company>just me</company>
+    <title> a ting</title>
+    <feeling> nx ous, sca  d  heart be ti   t o ha d         , b t a so a l   le bi  ex  t d</feeling>
+    <time>    (i  Chi   </time>
+    <place>ho  ,  ying o  m   ed</place>
+    <event>w    n  fo    mi   o  d  i  on  ma    rom  o t wes  rn</event>
+    <company>jus  m </company>
     <sense>
-      <sight>staring at the ceiling</sight>
-      <sound>my heartbeats</sound>
-      <smell>fresh meadow scent (detergent on bedding)</smell>
-      <touch>soft comforter</touch>
-      <taste>sour and salty taste down my throat</taste>
+      <sight>st ri g  t      eil  g</sight>
+      <sound>m  hear   at </sound>
+      <smell>fre        w  c nt  d tergen   n be din )</smell>
+      <touch>soft co for   </touch>
+      <taste> o r  nd s     ta t  do n    th oa </taste>
     </sense>
   </memory>
   <memory>
-    <title>stargazing in yosemite</title>
-    <feeling>peace</feeling>
-    <time>night time, early september 2016</time>
-    <place>Yosemite national park</place>
-    <event>camping trip</event>
-    <company>two best friends from high school</company>
+    <title>starga  ng  n  osemite</title>
+    <feeling>peac </feeling>
+    <time>  g t  ime,  arl   e     er  016</time>
+    <place>Yos mi e n ti  a    rk</place>
+    <event> ampin  tri </event>
+    <company>tw    st  riends fr   high  choo </company>
     <sense>
-      <sight>half dome, bright stars, the milky way, jagged mountains, tall evergreens</sight>
-      <sound>a guide talking, crickets, crunching footsteps, some conversation</sound>
-      <smell>fresh, crisp nighttime mountain air, evergreens</smell>
-      <touch>rough rock, cool, mild breeze</touch>
-      <taste>fresh air</taste>
+      <sight>h lf do  , brig     a s,   e mil y w       ged m u t   s  t l  ev rgr e s</sight>
+      <sound>a  uide t  ki  , cri ke s  crun hi     ot    s  som  c nversat o </sound>
+      <smell>fres , cr sp ni    ime m u  a    ir    e g e   </smell>
+      <touch>r   h   ck, co l  mi d b e  e</touch>
+      <taste> re h a r</taste>
     </sense>
   </memory>
   <memory>
-    <title>Russian Mule</title>
-    <feeling>happy and bubbly</feeling>
-    <time>April 26th mid-day</time>
-    <place>a rooftop over Chicago</place>
-    <event>getting drinks</event>
-    <company>a friend who is leaving for work</company>
+    <title>Russi   M l </title>
+    <feeling>hap   and  u bl </feeling>
+    <time>  ril 2    m d  ay</time>
+    <place>a r  ftop ov r Chicago</place>
+    <event>g t ing d inks</event>
+    <company>  fr  n  who is leavi g   r w rk</company>
     <sense>
-      <sight>a medium-ish crowd of people on a rooftop that faces millennium park</sight>
-      <sound>conversations that are and aren’t mine</sound>
-      <smell>citrus</smell>
-      <touch>cold, metal</touch>
-      <taste>Russian Mule</taste>
+      <sight>a  e i m ish  ro d  f peo le           op t  t faces mille n     ark</sight>
+      <sound> o vers tion  t at are      r n’  m ne</sound>
+      <smell>c trus</smell>
+      <touch>         al</touch>
+      <taste> uss  n Mul </taste>
     </sense>
   </memory>
   <memory>
-    <title>why not</title>
-    <feeling>an adrenaline rush, blood pumping</feeling>
-    <time>a tuesday, before mother's day weekend</time>
-    <place>room 202</place>
-    <event>spontaneously booking a plane ticket to nyc for the week of</event>
-    <company>my persuasive roommate</company>
+    <title>thi </title>
+    <feeling>h</feeling>
+    <time>h</time>
+    <place> </place>
+    <event>h</event>
+    <company>h</company>
     <sense>
-      <sight>ticket prices</sight>
-      <sound>her squeals of joy</sound>
-      <smell/>
-      <touch>plastic keys</touch>
+      <sight>h</sight>
+      <sound>h</sound>
+      <smell>h</smell>
+      <touch> </touch>
+      <taste> </taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>o h  </title>
+    <feeling>   ng</feeling>
+    <time>i</time>
+    <place> </place>
+    <event>j</event>
+    <company> </company>
+    <sense>
+      <sight>j</sight>
+      <sound>j</sound>
+      <smell>jj</smell>
+      <touch> </touch>
+      <taste>j</taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>friends toas </title>
+    <feeling/>
+    <time>fall 2015?</time>
+    <place>sam   old apartme t ne r benn son’s</place>
+    <event>making new friends</event>
+    <company>sam and macs</company>
+    <sense>
+      <sight/>
+      <sound> eon b idges</sound>
+      <smell> moke and f ench to  t c oking</smell>
+      <touch/>
+      <taste>weed af e taste and french  oast</taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>wa na race</title>
+    <feeling>like a ch ld  gain</feeling>
+    <time>an afternoon las  sp ing</time>
+    <place>maggie da  y par </place>
+    <event>racing to get to t e top of the sl de</event>
+    <company>the b y i was chasing!!</company>
+    <sense>
+      <sight> mall childre  in th  way</sight>
+      <sound>children laughing  nd playing</sound>
+      <smell>met  </smell>
+      <touch>w  den playground set</touch>
       <taste/>
+    </sense>
+  </memory>
+  <memory>
+    <title>i think you’re really cool too</title>
+    <feeling>butt rflie </feeling>
+    <time>june 5th  2016</time>
+    <place>on   be ch somewhere near do division st</place>
+    <event>con e sions</event>
+    <company>my crush</company>
+    <sense>
+      <sight>eyes c osed</sight>
+      <sound>mu i  from a f sti al in the  istance</sound>
+      <smell>summer air</smell>
+      <touch>his skin</touch>
+      <taste> is lips</taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>goodbye</title>
+    <feeling>tightness in my throat,  ad ess</feeling>
+    <time>e rly morning durin  winter break, four hours before h s flight back home</time>
+    <place>m  bed</place>
+    <event> ccepti g t e fact that we’ll be spending three months apart</event>
+    <company>him</company>
+    <sense>
+      <sight>him    his forest green turtleneck, blu red   om the tears well ng up in my eyes</sight>
+      <sound>deep breaths in bet e n silence</sound>
+      <smell>him</smell>
+      <touch>wra ped aro nd his body</touch>
+      <taste>s lty tear </taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>weed mom</title>
+    <feeling>cur ous</feeling>
+    <time>freshman year, spring? aft r watchin  e  machina</time>
+    <place>sherman &amp; fost r</place>
+    <event>a's fi s   ime smoking</event>
+    <company>r &amp; a</company>
+    <sense>
+      <sight>her light denim jacket</sight>
+      <sound>so t music </sound>
+      <smell>dank </smell>
+      <touch>the j</touch>
+      <taste>roasted brussell sprout </taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>tokyo: day 1</title>
+    <feeling> alm, at peace, slightly jetla ged but wit  a full heart</feeling>
+    <time>early morning, but n ght tim  in chicago</time>
+    <place>shinjuku gyoen pa k</place>
+    <event>slowly taking in the city, the  ul ure, the peop e</event>
+    <company>leslie</company>
+    <sense>
+      <sight>clear skies, beautiful people</sight>
+      <sound>calm hum in the city</sound>
+      <smell>fresh air</smell>
+      <touch/>
+      <taste>onigiri</taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>let’s try new  hings we’ll probably hate anyway</title>
+    <feeling>a little tired, but excited</feeling>
+    <time>june 1st</time>
+    <place>some here in chinatown</place>
+    <event>college formal</event>
+    <company>best f iend &amp; boyfriend</company>
+    <sense>
+      <sight>blinding fluorescent lig ts</sight>
+      <sound>top 40's</sound>
+      <smell/>
+      <touch>knees</touch>
+      <taste>shitty fruit</taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>three months later</title>
+    <feeling>excited, anxious, nervous, eager. heart beatin  r al fast</feeling>
+    <time>maybe arou d 1  a m.</time>
+    <place>getting out on the BART to 16th and Mission</place>
+    <event>reuniting</event>
+    <company>us</company>
+    <sense>
+      <sight>him i  the distance, with his signature olive pat gonia jacket</sight>
+      <sound>rumbling of the t ains</sound>
+      <smell>pee—it's SF</smell>
+      <touch/>
+      <taste/>
+    </sense>
+  </memory>
+  <memory>
+    <title>i hate feeling this way</title>
+    <feeling>tightness in my throat,  che in my heart, swollen face</feeling>
+    <time>a saturday</time>
+    <place>my bed</place>
+    <event>depressed day full of crying and sleepin </event>
+    <company>alone</company>
+    <sense>
+      <sight>my room d mly lit by the sun pee ing past the shades</sight>
+      <sound>my own sobs</sound>
+      <smell>no hing, blocked by my own gross snot</smell>
+      <touch>my sheets</touch>
+      <taste>my tears,  aftertaste of the few thi  mints that were in my room</taste>
     </sense>
   </memory>
 </memories>

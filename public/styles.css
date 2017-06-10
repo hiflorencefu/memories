@@ -46,19 +46,25 @@
     display: none;
 }
 
-
-h1 { 
+h1 {
   font-family: "Monaco";
-  color: black; 
   margin-bottom: -1px;
-}
+   }
 
 a {
-  text-decoration: none;
-  font-size: 12px;
   font-family: "Monaco";
+  color: black;
+  font-size: 12px;
+  text-decoration: none;
 }
 
 ul, li {
-    text-decoration: none;
+    list-style: none;
+    font-family: "Monaco";
+    font-size: 12px;
+}
+
+p {
+  font-family: "Monaco";
+  font-size: 10px;
 }
