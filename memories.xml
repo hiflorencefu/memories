@@ -257,7 +257,7 @@
   </memory>
   <memory>
     <title>three mo ths later</title>
-    <feeling>ex  ted, anx  us, n  vous, eager  heart beatin  r  l fast</feeling>
+    <feeling>ex  ted, anx  us, n  vous, eager  h art beatin  r  l fast</feeling>
     <time>m ybe arou d 1  a m.</time>
     <place> etting out on the BART to 16th and Mis ion</place>
     <event>reun t ng</event>
@@ -272,7 +272,7 @@
   </memory>
   <memory>
     <title>i hate feeling this way</title>
-    <feeling>t   tne s in my thro t,  che in  y  eart, swollen face</feeling>
+    <feeling>t   tne s in my  hro t,  che in  y  eart, swollen face</feeling>
     <time>a saturday</time>
     <place>my be </place>
     <event> e ressed da  full  f c  in  a   s eepi  </event>
@@ -287,7 +287,7 @@
   </memory>
   <memory>
     <title> hree months later (  prise)</title>
-    <feeling>uncertainty, doubt</feeling>
+    <feeling>uncertainty, d ubt</feeling>
     <time>around 9pm, mi -march</time>
     <place>o’hare</place>
     <event>coming bac  f o  S </event>
@@ -316,7 +316,7 @@
     </sense>
   </memory>
   <memory>
-    <title>Stuff that hurts to  emember</title>
+    <title>Stuff that  urts to  emember</title>
     <feeling> xciting, hap y </feeling>
     <time>Fre hman year</time>
     <place>beautiful campus of Northwestern University </place>
@@ -414,7 +414,7 @@
     <company/>
     <sense>
       <sight>c itter chatte </sight>
-      <sound>stillness of the night</sound>
+      <sound>st llness of the night</sound>
       <smell>d a n k</smell>
       <touch>cold hand</touch>
       <taste> arley and co2</taste>
@@ -433,6 +433,21 @@
       <smell>Something warm? </smell>
       <touch>my humid and oily skin</touch>
       <taste>Jianbing </taste>
+    </sense>
+  </memory>
+  <memory>
+    <title>†</title>
+    <feeling>simple but happy</feeling>
+    <time>sunday mornings</time>
+    <place>hyundai grandeur</place>
+    <event>crossing a toll bridge</event>
+    <company>unusually complete family</company>
+    <sense>
+      <sight>passing steel beams</sight>
+      <sound>la donna e mobile</sound>
+      <smell>leather seats</smell>
+      <touch>mother's hand</touch>
+      <taste>steamed walnuts</taste>
     </sense>
   </memory>
 </memories>
